@@ -2,7 +2,7 @@
 #include <stdbool.h>
 /**
  * @author: Tanvir Singh
- * @version: March 11, 2021
+ * @version: April 4, 2021
  * @description: C program to calculate the date of Easter.
  */
 int main() {
